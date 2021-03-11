@@ -3,7 +3,7 @@ A simple console interface snake and ladder game created in C having both single
 
 # **Snake and Ladder**
 
-//![Front Cover](D:\GitHub Projects\Snake and Ladder\Front Cover) 
+![Front Cover](Front Cover.png) 
 
 
 *Developed By Hizbi*
