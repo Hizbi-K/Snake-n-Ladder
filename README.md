@@ -3,11 +3,11 @@ A simple console interface snake and ladder game created in C having both single
 
 # **Snake and Ladder**
 
-![Front Cover](Front_Cover.png) 
+<p align="center">
+  <img src="Front_Cover.png" />
+</p>
 
-
-*Developed By Hizbi*
-
+<center> Developed By Hizbi </center>
 
 
 ## **Introduction:**
