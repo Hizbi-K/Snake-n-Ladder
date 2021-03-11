@@ -18,9 +18,21 @@ int main()
 
 
 
-        printf("\n\n");
-        printf("\tDeveloped By: Hizbi.\n");
-        printf("Hello to the Snake and Ladder Game!\n\n Please note that:\n H = Head of the Snake\n T = Tail of the Snake\n\n D = Downside of the Ladder\n U = Upside of the Ladder\n\n\n");
+        printf("\n");
+
+        printf("\n===================================\n");
+        printf("\n\tDeveloped By Hizbi.\n");
+        printf("\n===================================\n");
+
+        printf("\n\nHello to the Snake and Ladder Game!\n\n\n");
+
+        printf("\tPlease note that:\n");
+        printf("\tH = Head of the Snake\n");
+        printf("\tT = Tail of the Snake\n\n");
+
+        printf("\tD = Downside of the Ladder\n");
+        printf("\tU = Upside of the Ladder\n\n\n");
+
         printf("Press the number for respective game mode:\n");
         printf("Single Player = 1\n");
         printf("Two Players   = 2\n\n\n");
