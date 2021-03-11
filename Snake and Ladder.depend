@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1585160399 source:d:\codeblocks c programs\snek game_pf assignment 1\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1585161052 source:d:\mini project 1 by hizbullah khan bce-2b [fa19-bce-080]\snake game pf mini project 1\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1615482198 source:d:\github projects\snake game pf mini project 1\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
