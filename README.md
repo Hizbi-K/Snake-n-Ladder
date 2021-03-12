@@ -1,3 +1,6 @@
+<meta name="google-site-verification" content="o26q7xpcZenPB8cC9PPsrwJeHuAa6X-3QyIrsM9Quu8" />
+
+
 # snake-n-ladder
 
 
